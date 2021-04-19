@@ -6,6 +6,8 @@ Conjugate Gradient method. In addition, four different step-size selecting metho
 
 Paper Available: https://arxiv.org/abs/2101.10546
 
+If you have found any of this work useful, please cite the paper using:
+
 @misc{emiola2021optimization,
       title={Comparison of Minimization Methods for Rosenbrock Functions}, 
       author={Iyanuoluwa Emiola, Robson Adem, Marwan Simaan},
@@ -15,3 +17,4 @@ Paper Available: https://arxiv.org/abs/2101.10546
       primaryClass={math.OC}
 }
 
+Thanks!
